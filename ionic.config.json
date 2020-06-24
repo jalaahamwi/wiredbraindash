@@ -1,6 +1,8 @@
 {
   "name": "wiredbraindash",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "ce219d81"
 }
